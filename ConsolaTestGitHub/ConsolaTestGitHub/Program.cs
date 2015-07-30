@@ -14,6 +14,8 @@ namespace ConsolaTestGitHub
             Console.ReadLine();
             Console.WriteLine("Probando nuevo commit");
             Console.ReadLine();
+            Console.WriteLine("Probando nuevo commit desde Visual Studio");
+            Console.ReadLine();
         }
     }
 }
